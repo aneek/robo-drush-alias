@@ -1,0 +1,9 @@
+# Ignore vendor
+vendor
+
+# Ignore IDE files
+.idea
+.ddev
+
+# OS files
+.DS_Store
